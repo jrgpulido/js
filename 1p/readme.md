@@ -1,14 +1,17 @@
 # Temas
+De la primera parte
 
-## ambiente de desarrollo
+## Ambiente de desarrollo
+Lo que se necesita para realizar nuestros desarrollos 
 
-## repl's
+## REPL's
+read, evaluate, print, loop
 
-## bifurcaciones
+## Bifurcaciones
 
 
-## iteraciones
+## Iteraciones
 
-### sucesiones
-### sumadores
-### multiplicadores
+### Sucesiones
+### Sumadores
+### Multiplicadores
