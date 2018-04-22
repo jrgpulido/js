@@ -21,18 +21,18 @@ Hace uso de los shells de programación en Javascript
 -Excepciones
 
 
-## Ambiente de desarrollo
+# Ambiente de desarrollo
 Todo lenguaje de programación requiere de un conjunto de herramientas de desarrollo.
 
-## REPL's
+# REPL's
 Read, evaluate, print, loop
 
 
-## Entrada de datos
+# Entrada de datos
 
-## Salida de datos
+# Salida de datos
 
-## Tipos de dato
+# Tipos de dato
 JS incluye los siguientes tipos de dato:
 
 booleans: true y false
@@ -47,14 +47,14 @@ null : para variables declaradas pero sin un tipo de dato definido
 
 object: conjunto de propiedades y métodos
 
-## Operadores
+# Operadores
 
-## Bifurcaciones
+# Bifurcaciones
 
-## Iteraciones
-### Sucesiones
-### Sumadores
-### Multiplicadores
+# Iteraciones
+## Sucesiones
+## Sumadores
+## Multiplicadores
 
-## Funciones
+# Funciones
 
