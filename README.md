@@ -7,6 +7,7 @@ de la Universidad de Colima.
 
 Aplicar  conceptos y técnicas, básicas y avanzadas, del paradigma orientado a objetos  (OO) haciendo uso del lenguaje de programación Javascript para crear interfaces gráficas de usuario modernas con HTML5 y CSS3 básicos, y resolver problemática empresarial de información haciendo uso de herramientas de Software Libre (GNU), incluyendo navegadores web.
 
+## Partes
 Para lograr dicho proprosito, el curso se ha dividido en tres partes:
 
 -Introducción al desarrollo de software con Javascript	
@@ -15,7 +16,8 @@ Para lograr dicho proprosito, el curso se ha dividido en tres partes:
 
 -Elabora interfaces gráficas de usuario básicas con HTML5
 
-## Competencias del perfil del egresado a que contribuye la materia:
+## Competencias
+Competencias del perfil del egresado a que contribuye la materia son:
 
 -Conoce el paradigma orientado a objetos en Javascript
 
