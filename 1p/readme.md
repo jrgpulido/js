@@ -1,7 +1,17 @@
 # Primera parte
+Javascript (JS) es un lenguaje de programación elegante, expresivo, funcional, ligero, funcional y orientado a objetos (OO).
 
-# Introducción
-Javascript (JS) es un lenguaje de programación elegante, expresivo, funcional, ligero, funcional y orientado a objetos
+# Contenido
+
+-Introducción al paradigma OO
+-REPLs
+-Librerías básicas OO
+-Entrada de datos
+-Salida de datos
+-Tipos de datos
+-Conversión de datos
+-Excepciones
+
 
 # Ambiente de desarrollo
 Todo lenguaje de programación requiere de un conjunto de herramientas de desarrollo.
