@@ -4,12 +4,19 @@ Javascript (JS) es un lenguaje de programación elegante, expresivo, funcional, 
 # Contenido
 
 -Introducción al paradigma OO
+
 -REPLs
+
 -Librerías básicas OO
+
 -Entrada de datos
+
 -Salida de datos
+
 -Tipos de datos
+
 -Conversión de datos
+
 -Excepciones
 
 
@@ -43,4 +50,6 @@ object: conjunto de propiedades y métodos
 ## Sucesiones
 ## Sumadores
 ## Multiplicadores
+
+# Funciones
 
