@@ -13,17 +13,17 @@ Read, evaluate, print, loop
 # Tipos de dato
 JS incluye los siguientes tipos de dato:
 
-booleans: true and false
+booleans: true y false
 
 numbers: por ejemplo 81 y 4.21
 
-string: texto
+string: 'texto', 'x'
 
-undefined
+undefined : para variables sin declarar
 
-null
+null : para variables declaradas pero sin un tipo de dato definido
 
-objects
+object: conjunto de propiedades y métodos
 
 # Operadores
 
