@@ -1,7 +1,7 @@
 # Segunda parte
 
 # Resultados de aprendizaje
-Aplica librerías básicas orientadas a objetos de Javascript
+Elabora y aplica librerías básicas orientadas a objetos de Javascript
 
 # Contenido
 
