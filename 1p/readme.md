@@ -10,11 +10,11 @@ Hace uso de los shells de programación en Javascript
 
 -REPLs
 
+-Tipos de datos
+
 -Entrada de datos
 
 -Salida de datos
-
--Tipos de datos
 
 -Conversión de datos
 
@@ -26,11 +26,6 @@ Todo lenguaje de programación requiere de un conjunto de herramientas de desarr
 
 # REPL's
 Read, evaluate, print, loop
-
-
-# Entrada de datos
-
-# Salida de datos
 
 # Tipos de dato
 JS incluye los siguientes tipos de dato:
@@ -46,6 +41,11 @@ undefined : para variables sin declarar
 null : para variables declaradas pero sin un tipo de dato definido
 
 object: conjunto de propiedades y métodos
+
+
+# Entrada de datos
+
+# Salida de datos
 
 # Operadores
 
