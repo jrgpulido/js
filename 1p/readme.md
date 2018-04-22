@@ -14,10 +14,15 @@ Read, evaluate, print, loop
 JS incluye los siguientes tipos de dato:
 
 booleans: true and false
+
 numbers: por ejemplo 81 y 4.21
+
 string: texto
+
 undefined
+
 null
+
 objects
 
 # Operadores
